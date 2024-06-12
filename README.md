@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arno-muia
 - 👀 I’m interested in web development and machine learning.
-- 🌱 I’m currently learning back end web development.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning back end web development and data analytics.
+- 💞️ I’m looking to collaborate on machine learning projects and mobile app development projects.
 - 📫 How to reach me muiaarnold12@gmail.com
 
 <!---
